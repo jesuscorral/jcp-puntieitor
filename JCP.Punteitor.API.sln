@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JCP.Punteitor.API", "src\JCP.Punteitor.API\JCP.Punteitor.API.csproj", "{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ED6E2EEE-2D26-401C-8EEB-214E635B6C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C3A4AE6-D583-4445-BC4D-D4DBE93BFCEA} = {ED6E2EEE-2D26-401C-8EEB-214E635B6C3A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA54418A-5CC5-46AC-837B-3D56C084631B}
+	EndGlobalSection
+EndGlobal
